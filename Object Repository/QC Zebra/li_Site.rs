@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Site</name>
+   <tag></tag>
+   <elementGuidId>8e9b4473-eeff-470b-8d26-9d9ba580118c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.rcbHovered</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_SwitchMode_DropDown']/div/ul/li[36]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>059dca69-685a-4454-b383-5a16b67ae801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rcbHovered</value>
+      <webElementGuid>4a05e69a-3aeb-4f54-a97d-56294129fd0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>025 Skyline High</value>
+      <webElementGuid>b6c23a1e-89c1-4445-8007-3d0f89aff4de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_SwitchMode_DropDown&quot;)/div[@class=&quot;rcbScroll rcbWidth&quot;]/ul[@class=&quot;rcbList&quot;]/li[@class=&quot;rcbHovered&quot;]</value>
+      <webElementGuid>06556556-58be-460a-8b86-904fab2c839b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_SwitchMode_DropDown']/div/ul/li[36]</value>
+      <webElementGuid>b7522ee5-8dd8-45df-a9d4-036b9ad18cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('~`@#$%^&amp;*()_+{}|[]\:&quot;;', &quot;'&quot;, '&lt;,>.?/SY')])[1]/following::li[21]</value>
+      <webElementGuid>33f3082c-3d49-4781-a64b-7f3d730e5d6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='@Pari1108'])[1]/following::li[22]</value>
+      <webElementGuid>46dd2e60-54ea-4ad2-83c1-501279896a80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('035 Rangel Young Women', &quot;'&quot;, 's Ldshp High')])[1]/preceding::li[8]</value>
+      <webElementGuid>033050e8-9895-4c60-92af-88af3c5b6947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('887 St. Phillip', &quot;'&quot;, 's Episcopal School &amp; Community Center')])[1]/preceding::li[332]</value>
+      <webElementGuid>42faf5fb-f465-485c-96ad-0a6c9ee6779a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Skyline High']/parent::*</value>
+      <webElementGuid>7a37d626-1546-4e6d-9def-12de5088ca20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[36]</value>
+      <webElementGuid>5d9b686c-1d16-42d8-985c-35e8001471ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '025 Skyline High' or . = '025 Skyline High')]</value>
+      <webElementGuid>c4ee5aa8-67ba-4b9d-980d-f7ec6e7c24ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

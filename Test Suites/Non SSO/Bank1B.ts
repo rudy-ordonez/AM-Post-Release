@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Bank1B</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>1b72a56e-e882-44fa-9a80-5e9d69035734</testSuiteGuid>
+   <testCaseLink>
+      <guid>3de8db1e-2002-495c-9285-afbab52c9f7e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Post-Release/Generic Logins/Generic Retry</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>39ee0506-cb7a-48ae-867f-2341718c0b6b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Non-SSO/Bank1 B</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>39ee0506-cb7a-48ae-867f-2341718c0b6b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>93e8f0f8-445b-4a18-baa3-f1a9660aee8f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>39ee0506-cb7a-48ae-867f-2341718c0b6b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>bbd1f073-e642-41e0-a0df-a5c41aa3c2f4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>39ee0506-cb7a-48ae-867f-2341718c0b6b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>c9cb5c21-fedc-4225-b7b2-30cbddef2728</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

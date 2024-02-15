@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OneLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81e1d848-e65e-443f-ae2b-91bc35d18782</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>5a47e611-8828-472a-8ff1-099904fb861a</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/SSO/OneLogin</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>5a47e611-8828-472a-8ff1-099904fb861a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>url</value>
+      <variableId>59428a4a-ce75-45ff-ad8c-7e1eaa608ce8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>5a47e611-8828-472a-8ff1-099904fb861a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>fad254b3-fc20-4579-ad44-2589c0a710ad</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>5a47e611-8828-472a-8ff1-099904fb861a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>5689eaa6-e95a-41e2-bd4e-4115de1fb523</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.url</defaultValue>
+      <description></description>
+      <id>59428a4a-ce75-45ff-ad8c-7e1eaa608ce8</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.username</defaultValue>
+      <description></description>
+      <id>fad254b3-fc20-4579-ad44-2589c0a710ad</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.password</defaultValue>
+      <description></description>
+      <id>5689eaa6-e95a-41e2-bd4e-4115de1fb523</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Feature Chk</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>1</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>true</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>0272f859-c54c-462c-b7fe-93694c3b039c</testSuiteGuid>
+   <testCaseLink>
+      <guid>4a0de057-e506-482a-854f-110e2c2b8274</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Post-Release/Feature Check/QC Zebra</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>6e7bd266-4f2f-48c1-8348-7c903baac47a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Feature Chk</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>6e7bd266-4f2f-48c1-8348-7c903baac47a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>b144ed78-1471-4cc1-ab06-2d66dc294ad3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6e7bd266-4f2f-48c1-8348-7c903baac47a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>ba1de526-e87e-4777-8551-3f2dfe03c366</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6e7bd266-4f2f-48c1-8348-7c903baac47a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>44194c38-02e6-4e7e-a2e4-8ff767e0dd15</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6e7bd266-4f2f-48c1-8348-7c903baac47a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>site</value>
+         <variableId>84151a0b-9f6c-4500-86cf-7ae9bec3a26c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6e7bd266-4f2f-48c1-8348-7c903baac47a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tag</value>
+         <variableId>95d6ffee-3820-433b-b0ee-c301e363d806</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
