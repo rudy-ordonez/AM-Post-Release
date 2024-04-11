@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Log Off</name>
+   <tag></tag>
+   <elementGuidId>80252964-f47b-42f3-9180-3b33540e6a85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li/div/div/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.rmLink.rmFocused > span.rmText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7904ba90-5a07-40c7-b9b3-fc9d72fcb2c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rmText</value>
+      <webElementGuid>af8369fc-c8c0-4802-9f34-1282e795faac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log Off</value>
+      <webElementGuid>060cf1f1-ff23-42ca-a44b-3cb3e9dd08aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_RadMenuUserOptions&quot;)/ul[@class=&quot;rmRootGroup rmToggleHandles rmHorizontal&quot;]/li[@class=&quot;rmItem rmFirst rmLast&quot;]/div[@class=&quot;rmSlide&quot;]/div[@class=&quot;rmScrollWrap rmGroup rmLevel1&quot;]/ul[@class=&quot;rmVertical&quot;]/li[@class=&quot;rmItem rmLast&quot;]/a[@class=&quot;rmLink rmFocused&quot;]/span[@class=&quot;rmText&quot;]</value>
+      <webElementGuid>79cf3456-75d8-472e-8056-62e30c21f588</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_RadMenuUserOptions']/ul/li/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>157e9473-eee5-46e5-aa4d-31a6ff3e7cd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile Settings'])[1]/following::span[1]</value>
+      <webElementGuid>33acf986-5914-47ff-ba12-89d80aac3c4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle'])[1]/following::span[2]</value>
+      <webElementGuid>c35ac03b-de91-4d5e-8ae7-97688bed7354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aspire Public Schools Inventory Statistics: All Sites, All Product Typ...'])[1]/preceding::span[2]</value>
+      <webElementGuid>661cc805-c2a8-49cb-b6ba-44e411c916ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>ec2b93ce-0d40-4bf5-a0eb-270110329a19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Log Off' or . = 'Log Off')]</value>
+      <webElementGuid>2e828d97-99a1-492d-ab96-1658e95437b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

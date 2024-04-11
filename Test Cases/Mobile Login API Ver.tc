@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Mobile Login API Ver</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8d995bc-183e-4a6e-8820-38c92d8cdaef</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c0a3e1b-bbcb-4e58-b59c-b72561150188</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.mobile_logon</defaultValue>
+      <description></description>
+      <id>4c0a3e1b-bbcb-4e58-b59c-b72561150188</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

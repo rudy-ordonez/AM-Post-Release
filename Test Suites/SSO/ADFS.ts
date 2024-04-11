@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>ADFS</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>2</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>true</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>1e69d39a-2d7a-4be3-9b96-976f98e1e93f</testSuiteGuid>
+   <testCaseLink>
+      <guid>57c58a81-3705-4325-9f9c-e280f0e652bc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Post-Release/ADFS_/ADFS</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c2bec815-a5da-4cc2-9720-bead0f5bd3e7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/SSO/ADFS</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>c2bec815-a5da-4cc2-9720-bead0f5bd3e7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>a028748f-d16d-4039-bbc7-336d87a4da87</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c2bec815-a5da-4cc2-9720-bead0f5bd3e7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>25f17706-5814-4a7c-9bb0-7a560a693fb5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c2bec815-a5da-4cc2-9720-bead0f5bd3e7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>4f9e0b18-458f-4f5b-8157-ec93041fe8f9</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b8949b36-5b57-440c-8b44-7366efb4a63a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Post-Release/ADFS_/Hilliard (ADFS)</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fdf7477f-30d6-4bee-95ea-423d4cd15b2e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Post-Release/ADFS_/Sequoia(ADFS)</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>
