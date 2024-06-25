@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Inventory Management Settings</name>
+   <tag></tag>
+   <elementGuidId>f93ef8b7-5fdc-4a58-a2aa-1ac4183cbb36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.rpExpandHandle.rpExpandHandleHovered</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_ContentPlaceHolder1_RadPanelBar1']/ul/li[2]/a/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>67b8c8f9-32bc-43fb-bc36-fec7b5677b79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rpExpandHandle rpExpandHandleHovered</value>
+      <webElementGuid>2069a794-53f6-4725-ac6f-d66519a7e969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder1_RadPanelBar1&quot;)/ul[@class=&quot;rpRootGroup&quot;]/li[@class=&quot;rpItem&quot;]/a[@class=&quot;rpLink rpRootLink rpExpandable rpHovered&quot;]/span[@class=&quot;rpOut&quot;]/span[@class=&quot;rpExpandHandle rpExpandHandleHovered&quot;]</value>
+      <webElementGuid>a7ff8008-c5e8-412e-bba4-50f46968ccfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/TIPWebIT/Staff Xfer Check/iframe_Close_RadWindowSettings</value>
+      <webElementGuid>da0cd14e-0744-42e3-9ef0-c5d75f97a792</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_ContentPlaceHolder1_RadPanelBar1']/ul/li[2]/a/span/span</value>
+      <webElementGuid>f92cac11-af32-4c99-816e-6f1df26ed9cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span/span</value>
+      <webElementGuid>2a973f78-cb8f-42ed-9624-66d91183495f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "4440D26FBB54B203C89E5D46AA838D73",
+  "keywordClasses": [
+    {
+      "name": "in_out.logout",
+      "keywordMethods": [
+        {
+          "name": "Logout",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
