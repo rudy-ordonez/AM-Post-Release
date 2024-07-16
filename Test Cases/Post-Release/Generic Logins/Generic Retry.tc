@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Generic Retry</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>521c8175-f2d4-43ed-88e2-43c3cf93a64b</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>fa8fb449-ecae-4237-ad78-7acfb4b88f73</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Non-SSO/Demo_Train</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>fa8fb449-ecae-4237-ad78-7acfb4b88f73</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>url</value>
+      <variableId>93e8f0f8-445b-4a18-baa3-f1a9660aee8f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>fa8fb449-ecae-4237-ad78-7acfb4b88f73</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>bbd1f073-e642-41e0-a0df-a5c41aa3c2f4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>fa8fb449-ecae-4237-ad78-7acfb4b88f73</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>c9cb5c21-fedc-4225-b7b2-30cbddef2728</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.url</defaultValue>
+      <description></description>
+      <id>93e8f0f8-445b-4a18-baa3-f1a9660aee8f</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.username</defaultValue>
+      <description></description>
+      <id>bbd1f073-e642-41e0-a0df-a5c41aa3c2f4</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.password</defaultValue>
+      <description></description>
+      <id>c9cb5c21-fedc-4225-b7b2-30cbddef2728</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

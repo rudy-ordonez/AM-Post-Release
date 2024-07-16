@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClassLink</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c9b290b-8c61-4be5-a584-99035444befd</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>410a09e8-a6ca-48d0-86b2-9ffba20a2e0b</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/SSO/ClassLink</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>410a09e8-a6ca-48d0-86b2-9ffba20a2e0b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>url</value>
+      <variableId>22e3d6a9-276a-4916-97dc-640f38797686</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>410a09e8-a6ca-48d0-86b2-9ffba20a2e0b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>1c671c46-c55d-4769-b70c-c8095c5962a3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>410a09e8-a6ca-48d0-86b2-9ffba20a2e0b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>613562dd-38c2-458a-bffd-8dcae3f9ab46</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.url</defaultValue>
+      <description></description>
+      <id>22e3d6a9-276a-4916-97dc-640f38797686</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.username</defaultValue>
+      <description></description>
+      <id>1c671c46-c55d-4769-b70c-c8095c5962a3</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.password</defaultValue>
+      <description></description>
+      <id>613562dd-38c2-458a-bffd-8dcae3f9ab46</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
